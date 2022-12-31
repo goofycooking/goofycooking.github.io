@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to Goofy Cooking on Goofy Cooking</title>
-    <link>http://example.org/</link>
+    <link>https://goofycooking.github.io/</link>
     <description>Recent content in Welcome to Goofy Cooking on Goofy Cooking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 22:39:49 -0600</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 22:39:49 -0600</lastBuildDate><atom:link href="https://goofycooking.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Air Fried Chicken Balls</title>
-      <link>http://example.org/post/air-fried-chicken-balls/</link>
+      <link>https://goofycooking.github.io/post/air-fried-chicken-balls/</link>
       <pubDate>Fri, 30 Dec 2022 22:34:12 -0600</pubDate>
       
-      <guid>http://example.org/post/air-fried-chicken-balls/</guid>
+      <guid>https://goofycooking.github.io/post/air-fried-chicken-balls/</guid>
       <description>Ground Chicken mix it with following
 let it marinate for lorem ipsum
 fry it for 10 minutes at 400 flip it at around 7 minutes</description>
@@ -20,10 +20,10 @@ fry it for 10 minutes at 400 flip it at around 7 minutes</description>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://goofycooking.github.io/about/</link>
       <pubDate>Fri, 30 Dec 2022 22:26:52 -0600</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://goofycooking.github.io/about/</guid>
       <description>About Goofy Cooking</description>
     </item>
     
